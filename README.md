@@ -1,5 +1,5 @@
 # Sociomatic
-### Sociomatic is a physical social tracker app which tracks your physical interactions with other people. With Sociomatic both you and your employer will be able to keep a track of your pysical meetings and interactions with other people who are using Sociomatic for work as well. With the help of advanced bluetooth and gps tracking Sociomatic will keep a record of your interaction that too without any hassle of connectivity with internet.
+#### Sociomatic is a physical social tracker app which tracks your physical interactions with other people. With Sociomatic both you and your employer will be able to keep a track of your pysical meetings and interactions with other people who are using Sociomatic for work as well. With the help of advanced bluetooth and gps tracking Sociomatic will keep a record of your interaction that too without any hassle of connectivity with internet.
 
 ## Link to the project- https://previewer.adalo.com/fd16a4ae-d165-42db-98c8-3b67269e103c
 ![image](https://user-images.githubusercontent.com/72443636/139541768-95a11966-875d-4234-870b-e3f90a6ec46b.png)
