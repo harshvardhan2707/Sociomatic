@@ -8,5 +8,5 @@
 # Screenshots-
 
 ![image-removebg-preview (1)](https://user-images.githubusercontent.com/72443636/139541859-e7373500-a8a1-4ca7-b247-2a0ed59b7f66.png)
-![image](https://user-images.githubusercontent.com/72443636/139541862-cd74081c-ec27-4b28-a556-d444a592ccc7.png)
+![139541862-cd74081c-ec27-4b28-a556-d444a592ccc7-removebg-preview](https://user-images.githubusercontent.com/31695520/139542914-6cb203a0-f34b-477c-b965-db1f48245796.png)
 ![image-removebg-preview](https://user-images.githubusercontent.com/72443636/139541848-248a5045-1d40-40f8-ae5e-bd5e1e1760c2.png)
